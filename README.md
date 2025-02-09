@@ -1,1 +1,6 @@
-membuat program untuk mengirim file form ke email menggunakan web mailtrap untuk bahan ujicoba
+Membuat program untuk mengirim file form ke email 
+teknologi:
+1. laravel
+2. mailtrap(ujicoba seolah olah email asli)
+
+nb next commit: upgrade UI
